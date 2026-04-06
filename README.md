@@ -1,7 +1,5 @@
 
 <center>
-  
-![MXS logo](MXS_logo.png)</br>
-![MXS Our data center in Chemnitz](mxs_bg1.jpg)
-
+<img src="MXS_logo.png"><br/>
+<img src="mxs_bg1.jpg">                        
 </center>
